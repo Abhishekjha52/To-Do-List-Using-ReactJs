@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sofia+Sans&family=Square+Peg&display=swap');
+.mainHeader{
+    font-family: Sofia Sans;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color: blue;
+}
+.inputMain{
+    position: absolute;
+    top: 30%;
+    left: 31%;
+    background-color: beige;
+}
+
+.items{
+    position: absolute;
+    top: 55%;
+    left: 43%;
+}
+
+.btn3{
+    position: absolute;
+    top: 40%;
+    left: 58%;
+}
+
